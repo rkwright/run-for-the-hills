@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type"/>
+
+<title>RFTH Slideshow</title>
+<link href="../styles.css" rel="stylesheet" type="text/css" />
+<link href="slideshow.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="scripts/slideshow.js"></script>
+
+</head>
+
+<body>
+	<!--#include virtual="../includes/banner_nav.shtml" -->   
+	<!--#include virtual="slideshow_nav.shtml" -->
+
+<div style="left: 320px; top: 75px; position: absolute; width: 1000px;">
+
+<div style="text-align: left; ">
+<br/>
+<br/>
+</div>
+
+<!-- this will work with any number of images -->
+<!-- set the active class on whichever image you want to show up as the default 
+(otherwise this will be the last image) -->
+
+<!-- Note that you can add an <a> element to any of the images and allow the user to navigate away to whereever -->
+
+
+<div id="slideshow" >
+<div class="active"><img src="RFTH_Win_10k/IMG_8454b.jpg" alt="Slideshow Image 1" />First Place, 10k, Men's Overall: Christopher Rodriguez (36:45.2)</div>
+<div ><img src="RFTH_Win_10k/IMG_8458b.jpg" alt="Slideshow Image 2" />Second Place, 10k, Men's Overall: Joseph Zavalishin (38:00.8)</div>
+<div ><img src="RFTH_Win_10k/IMG_8466b.jpg" alt="Slideshow Image 3" />First Place, 10k, Women's Overall: Stephanie Zuehls (45:56.1)</div>
+<div ><img src="RFTH_Win_10k/IMG_8468b.jpg" alt="Slideshow Image 4" />Second Place, 10k, Women's Overall: Melanie Marsh (47:45.3)</div>
+
+
+    
+    <hr/>
+
+</div>
+<p style="font-size:29px;text-align:center">The End!</p>
+</div>
+<div style="position:absolute; top:789px">
+<p style="font-size:9px;text-align:center">For any problems with the site, please contact <a href="mailto:morainehillsruninfo@gmail.com?Subject=RFTH%20Site%20Problems">the Webmaster</a></p>
+</div>
+</body>
+</html>

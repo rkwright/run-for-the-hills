@@ -1,0 +1,12 @@
+<div style="left: 280px;position: absolute; width:100%; height:50px; top: 60px; overflow:hidden;">
+<ul id="nav_ss">
+	<li><a href="slideshow.shtml">Set 1</a></li>
+	<li><a href="slideshow2.shtml">Set 2</a></li>
+	<li><a href="slideshow3.shtml">Set 3</a></li>
+	<li><a href="slideshow4.shtml">Set 4</a></li>
+	<li><a href="slideshow5.shtml">Set 5</a></li>
+	<li><a href="slideshow6.shtml">Set 6</a></li>
+	<li><a href="slideshow7.shtml">10k Winners</a></li>
+	<li><a href="slideshow8.shtml">Half Marathon Winners</a></li>
+    </ul>
+</div>

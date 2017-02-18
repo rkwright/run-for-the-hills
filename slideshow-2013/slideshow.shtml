@@ -1,0 +1,171 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type"/>
+
+<title>RFTH Slideshow</title>
+<link href="../styles.css" rel="stylesheet" type="text/css" />
+<link href="slideshow.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="scripts/slideshow.js"></script>
+
+</head>
+
+<body>
+	<!--#include virtual="../includes/banner_nav.shtml" -->   
+	<!--#include virtual="slideshow_nav.shtml" -->
+
+<div style="left: 320px; top: 75px; position: absolute; width: 1000px;">
+
+<div style="text-align: left; ">
+<br/>
+<br/>
+</div>
+
+<!-- this will work with any number of images -->
+<!-- set the active class on whichever image you want to show up as the default 
+(otherwise this will be the last image) -->
+
+<!-- Note that you can add an <a> element to any of the images and allow the user to navigate away to whereever -->
+
+
+<div id="slideshow" >
+    <div class="active">
+    <img src="RFTH_1003_a_25/IMG_8415.JPG" alt="Slideshow Image 1" />Image 1</div>
+<div ><img src="RFTH_1003_a_25/IMG_8416.JPG" alt="Slideshow Image 2" />Image 2</div>
+<div ><img src="RFTH_1003_a_25/IMG_8417.JPG" alt="Slideshow Image 3" />Image 3</div>
+<div ><img src="RFTH_1003_a_25/IMG_8419.JPG" alt="Slideshow Image 4" />Image 4</div>
+<div ><img src="RFTH_1003_a_25/IMG_8420.JPG" alt="Slideshow Image 5" />Image 5</div>
+<div ><img src="RFTH_1003_a_25/IMG_8421b.jpg" alt="Slideshow Image 6" />Image 6</div>
+<div ><img src="RFTH_1003_a_25/IMG_8422.JPG" alt="Slideshow Image 7" />Image 7</div>
+<div ><img src="RFTH_1003_a_25/IMG_8423.JPG" alt="Slideshow Image 8" />Image 8</div>
+<div ><img src="RFTH_1003_a_25/IMG_8424.JPG" alt="Slideshow Image 9" />Image 9</div>
+<div ><img src="RFTH_1003_a_25/IMG_8425.JPG" alt="Slideshow Image 10" />Image 10</div>
+<div ><img src="RFTH_1003_a_25/IMG_8426.JPG" alt="Slideshow Image 11" />Image 11</div>
+<div ><img src="RFTH_1003_a_25/IMG_8427.JPG" alt="Slideshow Image 12" />Image 12</div>
+<div ><img src="RFTH_1003_a_25/IMG_8428.JPG" alt="Slideshow Image 13" />Image 13</div>
+<div ><img src="RFTH_1003_a_25/IMG_8429.JPG" alt="Slideshow Image 14" />Image 14</div>
+<div ><img src="RFTH_1003_a_25/IMG_8430.JPG" alt="Slideshow Image 15" />Image 15</div>
+<div ><img src="RFTH_1003_a_25/IMG_8430b.jpg" alt="Slideshow Image 16" />Image 16</div>
+<div ><img src="RFTH_1003_a_25/IMG_8431.JPG" alt="Slideshow Image 17" />Image 17</div>
+<div ><img src="RFTH_1003_a_25/IMG_8431b.jpg" alt="Slideshow Image 18" />Image 18</div>
+<div ><img src="RFTH_1003_a_25/IMG_8432.JPG" alt="Slideshow Image 19" />Image 19</div>
+<div ><img src="RFTH_1003_a_25/IMG_8433.JPG" alt="Slideshow Image 20" />Image 20</div>
+<div ><img src="RFTH_1003_a_25/IMG_8434.JPG" alt="Slideshow Image 21" />Image 21</div>
+<div ><img src="RFTH_1003_a_25/IMG_8435.JPG" alt="Slideshow Image 22" />Image 22</div>
+<div ><img src="RFTH_1003_a_25/IMG_8436.JPG" alt="Slideshow Image 23" />Image 23</div>
+<div ><img src="RFTH_1003_a_25/IMG_8437.JPG" alt="Slideshow Image 24" />Image 24</div>
+<div ><img src="RFTH_1003_a_25/IMG_8438.JPG" alt="Slideshow Image 25" />Image 25</div>
+<div ><img src="RFTH_1003_a_25/IMG_8439.JPG" alt="Slideshow Image 26" />Image 26</div>
+<div ><img src="RFTH_1003_a_25/IMG_8441.JPG" alt="Slideshow Image 27" />Image 27</div>
+<div ><img src="RFTH_1003_a_25/IMG_8444.JPG" alt="Slideshow Image 28" />Image 28</div>
+<div ><img src="RFTH_1003_a_25/IMG_8445.JPG" alt="Slideshow Image 29" />Image 29</div>
+<div ><img src="RFTH_1003_a_25/IMG_8447.JPG" alt="Slideshow Image 30" />Image 30</div>
+<div ><img src="RFTH_1003_a_25/IMG_8448.JPG" alt="Slideshow Image 31" />Image 31</div>
+<div ><img src="RFTH_1003_a_25/IMG_8449.JPG" alt="Slideshow Image 32" />Image 32</div>
+<div ><img src="RFTH_1003_a_25/IMG_8453.JPG" alt="Slideshow Image 33" />Image 33</div>
+<div ><img src="RFTH_1003_a_25/IMG_8454b.jpg" alt="Slideshow Image 34" />Image 34</div>
+<div ><img src="RFTH_1003_a_25/IMG_8455.JPG" alt="Slideshow Image 35" />Image 35</div>
+<div ><img src="RFTH_1003_a_25/IMG_8456b.jpg" alt="Slideshow Image 36" />Image 36</div>
+<div ><img src="RFTH_1003_a_25/IMG_8457b.jpg" alt="Slideshow Image 37" />Image 37</div>
+<div ><img src="RFTH_1003_a_25/IMG_8458b.jpg" alt="Slideshow Image 38" />Image 38</div>
+<div ><img src="RFTH_1003_a_25/IMG_8459.JPG" alt="Slideshow Image 39" />Image 39</div>
+<div ><img src="RFTH_1003_a_25/IMG_8460.JPG" alt="Slideshow Image 40" />Image 40</div>
+<div ><img src="RFTH_1003_a_25/IMG_8461.JPG" alt="Slideshow Image 41" />Image 41</div>
+<div ><img src="RFTH_1003_a_25/IMG_8462.JPG" alt="Slideshow Image 42" />Image 42</div>
+<div ><img src="RFTH_1003_a_25/IMG_8463.JPG" alt="Slideshow Image 43" />Image 43</div>
+<div ><img src="RFTH_1003_a_25/IMG_8464b.jpg" alt="Slideshow Image 44" />Image 44</div>
+<div ><img src="RFTH_1003_a_25/IMG_8465b.jpg" alt="Slideshow Image 45" />Image 45</div>
+<div ><img src="RFTH_1003_a_25/IMG_8466b.jpg" alt="Slideshow Image 46" />Image 46</div>
+<div ><img src="RFTH_1003_a_25/IMG_8467.JPG" alt="Slideshow Image 47" />Image 47</div>
+<div ><img src="RFTH_1003_a_25/IMG_8468b.jpg" alt="Slideshow Image 48" />Image 48</div>
+<div ><img src="RFTH_1003_a_25/IMG_8469.JPG" alt="Slideshow Image 49" />Image 49</div>
+<div ><img src="RFTH_1003_a_25/IMG_8470.JPG" alt="Slideshow Image 50" />Image 50</div>
+<div ><img src="RFTH_1003_a_25/IMG_8471.JPG" alt="Slideshow Image 51" />Image 51</div>
+<div ><img src="RFTH_1003_a_25/IMG_8472.JPG" alt="Slideshow Image 52" />Image 52</div>
+<div ><img src="RFTH_1003_a_25/IMG_8473.JPG" alt="Slideshow Image 53" />Image 53</div>
+<div ><img src="RFTH_1003_a_25/IMG_8474.JPG" alt="Slideshow Image 54" />Image 54</div>
+<div ><img src="RFTH_1003_a_25/IMG_8475.JPG" alt="Slideshow Image 55" />Image 55</div>
+<div ><img src="RFTH_1003_a_25/IMG_8476.JPG" alt="Slideshow Image 56" />Image 56</div>
+<div ><img src="RFTH_1003_a_25/IMG_8477.JPG" alt="Slideshow Image 57" />Image 57</div>
+<div ><img src="RFTH_1003_a_25/IMG_8478.JPG" alt="Slideshow Image 58" />Image 58</div>
+<div ><img src="RFTH_1003_a_25/IMG_8479.JPG" alt="Slideshow Image 59" />Image 59</div>
+<div ><img src="RFTH_1003_a_25/IMG_8480.JPG" alt="Slideshow Image 60" />Image 60</div>
+<div ><img src="RFTH_1003_a_25/IMG_8481.JPG" alt="Slideshow Image 61" />Image 61</div>
+<div ><img src="RFTH_1003_a_25/IMG_8482.JPG" alt="Slideshow Image 62" />Image 62</div>
+<div ><img src="RFTH_1003_a_25/IMG_8483.JPG" alt="Slideshow Image 63" />Image 63</div>
+<div ><img src="RFTH_1003_a_25/IMG_8484.JPG" alt="Slideshow Image 64" />Image 64</div>
+<div ><img src="RFTH_1003_a_25/IMG_8485.JPG" alt="Slideshow Image 65" />Image 65</div>
+<div ><img src="RFTH_1003_a_25/IMG_8486.JPG" alt="Slideshow Image 66" />Image 66</div>
+<div ><img src="RFTH_1003_a_25/IMG_8487.JPG" alt="Slideshow Image 67" />Image 67</div>
+<div ><img src="RFTH_1003_a_25/IMG_8488.JPG" alt="Slideshow Image 68" />Image 68</div>
+<div ><img src="RFTH_1003_a_25/IMG_8489b.jpg" alt="Slideshow Image 69" />Image 69</div>
+<div ><img src="RFTH_1003_a_25/IMG_8490.JPG" alt="Slideshow Image 70" />Image 70</div>
+<div ><img src="RFTH_1003_a_25/IMG_8491.JPG" alt="Slideshow Image 71" />Image 71</div>
+<div ><img src="RFTH_1003_a_25/IMG_8492.JPG" alt="Slideshow Image 72" />Image 72</div>
+<div ><img src="RFTH_1003_a_25/IMG_8494.JPG" alt="Slideshow Image 73" />Image 73</div>
+<div ><img src="RFTH_1003_a_25/IMG_8495.JPG" alt="Slideshow Image 74" />Image 74</div>
+<div ><img src="RFTH_1003_a_25/IMG_8496.JPG" alt="Slideshow Image 75" />Image 75</div>
+<div ><img src="RFTH_1003_a_25/IMG_8497.JPG" alt="Slideshow Image 76" />Image 76</div>
+<div ><img src="RFTH_1003_a_25/IMG_8498b.jpg" alt="Slideshow Image 77" />Image 77</div>
+<div ><img src="RFTH_1003_a_25/IMG_8499b.jpg" alt="Slideshow Image 78" />Image 78</div>
+<div ><img src="RFTH_1003_a_25/IMG_8501.JPG" alt="Slideshow Image 79" />Image 79</div>
+<div ><img src="RFTH_1003_a_25/IMG_8502.JPG" alt="Slideshow Image 80" />Image 80</div>
+<div ><img src="RFTH_1003_a_25/IMG_8503b.jpg" alt="Slideshow Image 81" />Image 81</div>
+<div ><img src="RFTH_1003_a_25/IMG_8504.JPG" alt="Slideshow Image 82" />Image 82</div>
+<div ><img src="RFTH_1003_a_25/IMG_8507.JPG" alt="Slideshow Image 83" />Image 83</div>
+<div ><img src="RFTH_1003_a_25/IMG_8509.JPG" alt="Slideshow Image 84" />Image 84</div>
+<div ><img src="RFTH_1003_a_25/IMG_8510.JPG" alt="Slideshow Image 85" />Image 85</div>
+<div ><img src="RFTH_1003_a_25/IMG_8511.JPG" alt="Slideshow Image 86" />Image 86</div>
+<div ><img src="RFTH_1003_a_25/IMG_8512.JPG" alt="Slideshow Image 87" />Image 87</div>
+<div ><img src="RFTH_1003_a_25/IMG_8513.JPG" alt="Slideshow Image 88" />Image 88</div>
+<div ><img src="RFTH_1003_a_25/IMG_8514.JPG" alt="Slideshow Image 89" />Image 89</div>
+<div ><img src="RFTH_1003_a_25/IMG_8515.JPG" alt="Slideshow Image 90" />Image 90</div>
+<div ><img src="RFTH_1003_a_25/IMG_8516.JPG" alt="Slideshow Image 91" />Image 91</div>
+<div ><img src="RFTH_1003_a_25/IMG_8517.JPG" alt="Slideshow Image 92" />Image 92</div>
+<div ><img src="RFTH_1003_a_25/IMG_8518.JPG" alt="Slideshow Image 93" />Image 93</div>
+<div ><img src="RFTH_1003_a_25/IMG_8519.JPG" alt="Slideshow Image 94" />Image 94</div>
+<div ><img src="RFTH_1003_a_25/IMG_8520.JPG" alt="Slideshow Image 95" />Image 95</div>
+<div ><img src="RFTH_1003_a_25/IMG_8522.JPG" alt="Slideshow Image 96" />Image 96</div>
+<div ><img src="RFTH_1003_a_25/IMG_8523.JPG" alt="Slideshow Image 97" />Image 97</div>
+<div ><img src="RFTH_1003_a_25/IMG_8524.JPG" alt="Slideshow Image 98" />Image 98</div>
+<div ><img src="RFTH_1003_a_25/IMG_8525.JPG" alt="Slideshow Image 99" />Image 99</div>
+<div ><img src="RFTH_1003_a_25/IMG_8526.JPG" alt="Slideshow Image 100" />Image 100</div>
+<div ><img src="RFTH_1003_a_25/IMG_8527.JPG" alt="Slideshow Image 101" />Image 101</div>
+<div ><img src="RFTH_1003_a_25/IMG_8528.JPG" alt="Slideshow Image 102" />Image 102</div>
+<div ><img src="RFTH_1003_a_25/IMG_8529.JPG" alt="Slideshow Image 103" />Image 103</div>
+<div ><img src="RFTH_1003_a_25/IMG_8530.JPG" alt="Slideshow Image 104" />Image 104</div>
+<div ><img src="RFTH_1003_a_25/IMG_8531.JPG" alt="Slideshow Image 105" />Image 105</div>
+<div ><img src="RFTH_1003_a_25/IMG_8532.JPG" alt="Slideshow Image 106" />Image 106</div>
+<div ><img src="RFTH_1003_a_25/IMG_8533.JPG" alt="Slideshow Image 107" />Image 107</div>
+<div ><img src="RFTH_1003_a_25/IMG_8534.JPG" alt="Slideshow Image 108" />Image 108</div>
+<div ><img src="RFTH_1003_a_25/IMG_8535.JPG" alt="Slideshow Image 109" />Image 109</div>
+<div ><img src="RFTH_1003_a_25/IMG_8536.JPG" alt="Slideshow Image 110" />Image 110</div>
+<div ><img src="RFTH_1003_a_25/IMG_8537.JPG" alt="Slideshow Image 111" />Image 111</div>
+<div ><img src="RFTH_1003_a_25/IMG_8538.JPG" alt="Slideshow Image 112" />Image 112</div>
+<div ><img src="RFTH_1003_a_25/IMG_8539.JPG" alt="Slideshow Image 113" />Image 113</div>
+<div ><img src="RFTH_1003_a_25/IMG_8540.JPG" alt="Slideshow Image 114" />Image 114</div>
+<div ><img src="RFTH_1003_a_25/IMG_8541.JPG" alt="Slideshow Image 115" />Image 115</div>
+<div ><img src="RFTH_1003_a_25/IMG_8542.JPG" alt="Slideshow Image 116" />Image 116</div>
+<div ><img src="RFTH_1003_a_25/IMG_8544.JPG" alt="Slideshow Image 117" />Image 117</div>
+<div ><img src="RFTH_1003_a_25/IMG_8545.JPG" alt="Slideshow Image 118" />Image 118</div>
+<div ><img src="RFTH_1003_a_25/IMG_8546.JPG" alt="Slideshow Image 119" />Image 119</div>
+<div ><img src="RFTH_1003_a_25/IMG_8547.JPG" alt="Slideshow Image 120" />Image 120</div>
+<div ><img src="RFTH_1003_a_25/IMG_8549.JPG" alt="Slideshow Image 121" />Image 121</div>
+<div ><img src="RFTH_1003_a_25/IMG_8550.JPG" alt="Slideshow Image 122" />Image 122</div>
+<div ><img src="RFTH_1003_a_25/IMG_8551.JPG" alt="Slideshow Image 123" />Image 123</div>
+<div ><img src="RFTH_1003_a_25/IMG_8553.JPG" alt="Slideshow Image 124" />Image 124</div>
+<div ><img src="RFTH_1003_a_25/IMG_8554.JPG" alt="Slideshow Image 125" />Image 125</div>
+
+    
+    <hr/>
+
+</div>
+<p style="font-size:29px;text-align:center">The End!</p>
+</div>
+<div style="position:absolute; top:789px">
+<p style="font-size:9px;text-align:center">For any problems with the site, please contact <a href="mailto:morainehillsruninfo@gmail.com?Subject=RFTH%20Site%20Problems">the Webmaster</a></p>
+</div>
+</body>
+</html>

@@ -1,0 +1,120 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type"/>
+
+<title>RFTH Slideshow</title>
+<link href="../styles.css" rel="stylesheet" type="text/css" />
+<link href="slideshow.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="scripts/slideshow.js"></script>
+
+</head>
+
+<body>
+	<!--#include virtual="../includes/banner_nav.shtml" -->   
+	<!--#include virtual="slideshow_nav.shtml" -->
+
+<div style="left: 320px; top: 75px; position: absolute; width: 1000px;">
+
+<div style="text-align: left; ">
+<br/>
+<br/>
+</div>
+
+<!-- this will work with any number of images -->
+<!-- set the active class on whichever image you want to show up as the default 
+(otherwise this will be the last image) -->
+
+<!-- Note that you can add an <a> element to any of the images and allow the user to navigate away to whereever -->
+
+
+<div id="slideshow" >
+ 
+<div class="active"><img src="RFTH Ric 10-5-13/IMG_0513.jpg" alt="Slideshow Image 1" />Image 1 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0515.jpg" alt="Slideshow Image 2" />Image 2 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0517.jpg" alt="Slideshow Image 3" />Image 3 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0519.jpg" alt="Slideshow Image 4" />Image 4 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0521.jpg" alt="Slideshow Image 5" />Image 5 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0525.jpg" alt="Slideshow Image 6" />Image 6 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0527.jpg" alt="Slideshow Image 7" />Image 7 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0529.jpg" alt="Slideshow Image 8" />Image 8 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0531.jpg" alt="Slideshow Image 9" />Image 9 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0533.jpg" alt="Slideshow Image 10" />Image 10 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0535.jpg" alt="Slideshow Image 11" />Image 11 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0537.jpg" alt="Slideshow Image 12" />Image 12 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0539.jpg" alt="Slideshow Image 13" />Image 13 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0541.jpg" alt="Slideshow Image 14" />Image 14 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0543.jpg" alt="Slideshow Image 15" />Image 15 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0545.jpg" alt="Slideshow Image 16" />Image 16 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0549.jpg" alt="Slideshow Image 17" />Image 17 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0552.jpg" alt="Slideshow Image 18" />Image 18 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0553.jpg" alt="Slideshow Image 19" />Image 19 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0555.jpg" alt="Slideshow Image 20" />Image 20 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0557.jpg" alt="Slideshow Image 21" />Image 21 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0559.jpg" alt="Slideshow Image 22" />Image 22 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0561.jpg" alt="Slideshow Image 23" />Image 23 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0563.jpg" alt="Slideshow Image 24" />Image 24 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0569.jpg" alt="Slideshow Image 25" />Image 25 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0571.jpg" alt="Slideshow Image 26" />Image 26 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0573.jpg" alt="Slideshow Image 27" />Image 27 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0575.jpg" alt="Slideshow Image 28" />Image 28 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0577.jpg" alt="Slideshow Image 29" />Image 29 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0581.jpg" alt="Slideshow Image 30" />Image 30 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0587.jpg" alt="Slideshow Image 31" />Image 31 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0589.jpg" alt="Slideshow Image 32" />Image 32 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0591.jpg" alt="Slideshow Image 33" />Image 33 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0593.jpg" alt="Slideshow Image 34" />Image 34 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0597.jpg" alt="Slideshow Image 35" />Image 35 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0599.jpg" alt="Slideshow Image 36" />Image 36 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0603.jpg" alt="Slideshow Image 37" />Image 37 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0606.jpg" alt="Slideshow Image 38" />Image 38 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0608.jpg" alt="Slideshow Image 39" />Image 39 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0612.jpg" alt="Slideshow Image 40" />Image 40 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0614.jpg" alt="Slideshow Image 41" />Image 41 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0616.jpg" alt="Slideshow Image 42" />Image 42 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0618.jpg" alt="Slideshow Image 43" />Image 43 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0620.jpg" alt="Slideshow Image 44" />Image 44 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0624.jpg" alt="Slideshow Image 45" />Image 45 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0628.jpg" alt="Slideshow Image 46" />Image 46 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0629.jpg" alt="Slideshow Image 47" />Image 47 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0632.jpg" alt="Slideshow Image 48" />Image 48 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0634.jpg" alt="Slideshow Image 49" />Image 49 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0636.jpg" alt="Slideshow Image 50" />Image 50 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0642.jpg" alt="Slideshow Image 51" />Image 51 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0647.jpg" alt="Slideshow Image 52" />Image 52 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0652.jpg" alt="Slideshow Image 53" />Image 53 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0654.jpg" alt="Slideshow Image 54" />Image 54 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0658.jpg" alt="Slideshow Image 55" />Image 55 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0659.jpg" alt="Slideshow Image 56" />Image 56 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0662.jpg" alt="Slideshow Image 57" />Image 57 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0667.jpg" alt="Slideshow Image 58" />Image 58 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0669.jpg" alt="Slideshow Image 59" />Image 59 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0671.jpg" alt="Slideshow Image 60" />Image 60 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0677.jpg" alt="Slideshow Image 61" />Image 61 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0681.jpg" alt="Slideshow Image 62" />Image 62 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0683.jpg" alt="Slideshow Image 63" />Image 63 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0687.jpg" alt="Slideshow Image 64" />Image 64 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0692.jpg" alt="Slideshow Image 65" />Image 65 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0697.jpg" alt="Slideshow Image 66" />Image 66 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0699.jpg" alt="Slideshow Image 67" />Image 67 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0703.jpg" alt="Slideshow Image 68" />Image 68 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0707.jpg" alt="Slideshow Image 69" />Image 69 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0709.jpg" alt="Slideshow Image 70" />Image 70 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0711.jpg" alt="Slideshow Image 71" />Image 71 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0713.jpg" alt="Slideshow Image 72" />Image 72 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0720.jpg" alt="Slideshow Image 73" />Image 73 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0721.MOV" alt="Slideshow Image 74" />Image 74 of 76</div>
+<div ><img src="RFTH Ric 10-5-13/IMG_0727.jpg" alt="Slideshow Image 75" />Image 75 of 76</div>
+
+    <hr/>
+
+</div>
+<p style="font-size:29px;text-align:center">The End!</p>
+</div>
+<div style="position:absolute; top:789px">
+<p style="font-size:9px;text-align:center">For any problems with the site, please contact <a href="mailto:morainehillsruninfo@gmail.com?Subject=RFTH%20Site%20Problems">the Webmaster</a></p>
+</div>
+</body>
+</html>

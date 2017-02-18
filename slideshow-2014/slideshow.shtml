@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type"/>
+
+<title>2014 Run for the Hills Memories</title>
+<link href="../styles.css" rel="stylesheet" type="text/css" />
+<link href="slideshow.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="scripts/slideshow.js"></script>
+
+</head>
+
+<body>
+	<!--#include virtual="../includes/banner_nav.shtml" -->   
+	<!--#include virtual="slideshow_nav.shtml" -->
+
+<div style="left: 320px; top: 75px; position: absolute; width: 1000px;">
+
+<div style="text-align: left; ">
+<p>Please click <a href="../slideshow-2013/slideshow.shtml">here</a> for the slides from 2013</p>
+<br/>
+<br/>
+</div>
+
+<!-- this will work with any number of images -->
+<!-- set the active class on whichever image you want to show up as the default 
+(otherwise this will be the last image) -->
+
+<!-- Note that you can add an <a> element to any of the images and allow the user to navigate away to whereever -->
+<div id="slideshow" >
+<div class="active">
+<img src="slideshow-images/DSCN7835.JPG" alt="Slideshow Image 1" />Image 1 of 91</div>
+<div ><img src="slideshow-images/DSCN7826.JPG" alt="Slideshow Image 2" />Image 2 of 91</div>
+<div ><img src="slideshow-images/DSCN7827.JPG" alt="Slideshow Image 3" />Image 3 of 91</div>
+<div ><img src="slideshow-images/DSCN7832.JPG" alt="Slideshow Image 4" />Image 4 of 91</div>
+<div ><img src="slideshow-images/DSCN7833.JPG" alt="Slideshow Image 5" />Image 5 of 91</div>
+<div ><img src="slideshow-images/DSCN7834.JPG" alt="Slideshow Image 6" />Image 6 of 91</div>
+<div ><img src="slideshow-images/DSCN7822.JPG" alt="Slideshow Image 7" />Image 7 of 91</div>
+<div ><img src="slideshow-images/IMG_0001.JPG" alt="Slideshow Image 8" />Image 8 of 91</div>
+<div ><img src="slideshow-images/IMG_0002.JPG" alt="Slideshow Image 9" />Image 9 of 91</div>
+<div ><img src="slideshow-images/IMG_0003.JPG" alt="Slideshow Image 10" />Image 10 of 91</div>
+<div ><img src="slideshow-images/IMG_0004.JPG" alt="Slideshow Image 11" />Image 11 of 91</div>
+<div ><img src="slideshow-images/IMG_0006.JPG" alt="Slideshow Image 12" />Image 12 of 91</div>
+<div ><img src="slideshow-images/IMG_0007.JPG" alt="Slideshow Image 13" />Image 13 of 91</div>
+<div ><img src="slideshow-images/IMG_0008.JPG" alt="Slideshow Image 14" />Image 14 of 91</div>
+<div ><img src="slideshow-images/IMG_0009.JPG" alt="Slideshow Image 15" />Image 15 of 91</div>
+<div ><img src="slideshow-images/IMG_0010.JPG" alt="Slideshow Image 16" />Image 16 of 91</div>
+<div ><img src="slideshow-images/IMG_0011.JPG" alt="Slideshow Image 17" />Image 17 of 91</div>
+<div ><img src="slideshow-images/IMG_0012.JPG" alt="Slideshow Image 18" />Image 18 of 91</div>
+<div ><img src="slideshow-images/IMG_0013.JPG" alt="Slideshow Image 19" />Image 19 of 91</div>
+<div ><img src="slideshow-images/IMG_0014.JPG" alt="Slideshow Image 20" />Image 20 of 91</div>
+<div ><img src="slideshow-images/IMG_0015.JPG" alt="Slideshow Image 21" />Image 21 of 91</div>
+<div ><img src="slideshow-images/IMG_0016.JPG" alt="Slideshow Image 22" />Image 22 of 91</div>
+<div ><img src="slideshow-images/IMG_0018.JPG" alt="Slideshow Image 23" />Image 23 of 91</div>
+<div ><img src="slideshow-images/IMG_0019.JPG" alt="Slideshow Image 24" />Image 24 of 91</div>
+<div ><img src="slideshow-images/IMG_0021.JPG" alt="Slideshow Image 25" />Image 25 of 91</div>
+<div ><img src="slideshow-images/IMG_0022.JPG" alt="Slideshow Image 26" />Image 26 of 91</div>
+<div ><img src="slideshow-images/IMG_0024.JPG" alt="Slideshow Image 27" />Image 27 of 91</div>
+<div ><img src="slideshow-images/IMG_0025.JPG" alt="Slideshow Image 28" />Image 28 of 91</div>
+<div ><img src="slideshow-images/IMG_2067.JPG" alt="Slideshow Image 29" />Image 29 of 91</div>
+<div ><img src="slideshow-images/IMG_8349.JPG" alt="Slideshow Image 30" />Image 30 of 91</div>
+<div ><img src="slideshow-images/IMG_8354.JPG" alt="Slideshow Image 31" />Image 31 of 91</div>
+<div ><img src="slideshow-images/IMG_8355.JPG" alt="Slideshow Image 32" />Image 32 of 91</div>
+<div ><img src="slideshow-images/IMG_8357.JPG" alt="Slideshow Image 33" />Image 33 of 91</div>
+<div ><img src="slideshow-images/IMG_8358.JPG" alt="Slideshow Image 34" />Image 34 of 91</div>
+<div ><img src="slideshow-images/IMG_8359.JPG" alt="Slideshow Image 35" />Image 35 of 91</div>
+<div ><img src="slideshow-images/IMG_8360.JPG" alt="Slideshow Image 36" />Image 36 of 91</div>
+<div ><img src="slideshow-images/IMG_8363.JPG" alt="Slideshow Image 37" />Image 37 of 91</div>
+<div ><img src="slideshow-images/IMG_8366.JPG" alt="Slideshow Image 38" />Image 38 of 91</div>
+<div ><img src="slideshow-images/IMG_8369.JPG" alt="Slideshow Image 39" />Image 39 of 91</div>
+<div ><img src="slideshow-images/IMG_8371.JPG" alt="Slideshow Image 40" />Image 40 of 91</div>
+<div ><img src="slideshow-images/IMG_8374.JPG" alt="Slideshow Image 41" />Image 41 of 91</div>
+<div ><img src="slideshow-images/IMG_8375.JPG" alt="Slideshow Image 42" />Image 42 of 91</div>
+<div ><img src="slideshow-images/IMG_8377.JPG" alt="Slideshow Image 43" />Image 43 of 91</div>
+<div ><img src="slideshow-images/IMG_8379.JPG" alt="Slideshow Image 44" />Image 44 of 91</div>
+<div ><img src="slideshow-images/IMG_8381.JPG" alt="Slideshow Image 45" />Image 45 of 91</div>
+<div ><img src="slideshow-images/IMG_8383.JPG" alt="Slideshow Image 46" />Image 46 of 91</div>
+<div ><img src="slideshow-images/IMG_8389.JPG" alt="Slideshow Image 47" />Image 47 of 91</div>
+<div ><img src="slideshow-images/IMG_8390.JPG" alt="Slideshow Image 48" />Image 48 of 91</div>
+<div ><img src="slideshow-images/IMG_9329.JPG" alt="Slideshow Image 49" />Image 49 of 91</div>
+<div ><img src="slideshow-images/IMG_9330.JPG" alt="Slideshow Image 50" />Image 50 of 91</div>
+<div ><img src="slideshow-images/IMG_9331.JPG" alt="Slideshow Image 51" />Image 51 of 91</div>
+<div ><img src="slideshow-images/IMG_9332.JPG" alt="Slideshow Image 52" />Image 52 of 91</div>
+<div ><img src="slideshow-images/IMG_9333.JPG" alt="Slideshow Image 53" />Image 53 of 91</div>
+<div ><img src="slideshow-images/IMG_9334.JPG" alt="Slideshow Image 54" />Image 54 of 91</div>
+<div ><img src="slideshow-images/IMG_9335.JPG" alt="Slideshow Image 55" />Image 55 of 91</div>
+<div ><img src="slideshow-images/IMG_9336.JPG" alt="Slideshow Image 56" />Image 56 of 91</div>
+<div ><img src="slideshow-images/IMG_9337.JPG" alt="Slideshow Image 57" />Image 57 of 91</div>
+<div ><img src="slideshow-images/IMG_9338.JPG" alt="Slideshow Image 58" />Image 58 of 91</div>
+<div ><img src="slideshow-images/IMG_9339.JPG" alt="Slideshow Image 59" />Image 59 of 91</div>
+<div ><img src="slideshow-images/IMG_9340.JPG" alt="Slideshow Image 60" />Image 60 of 91</div>
+<div ><img src="slideshow-images/IMG_9341.JPG" alt="Slideshow Image 61" />Image 61 of 91</div>
+<div ><img src="slideshow-images/IMG_9342.JPG" alt="Slideshow Image 62" />Image 62 of 91</div>
+<div ><img src="slideshow-images/IMG_9343.JPG" alt="Slideshow Image 63" />Image 63 of 91</div>
+<div ><img src="slideshow-images/IMG_9344.JPG" alt="Slideshow Image 64" />Image 64 of 91</div>
+<div ><img src="slideshow-images/IMG_9345.JPG" alt="Slideshow Image 65" />Image 65 of 91</div>
+<div ><img src="slideshow-images/IMG_9346.JPG" alt="Slideshow Image 66" />Image 66 of 91</div>
+<div ><img src="slideshow-images/IMG_9347.JPG" alt="Slideshow Image 67" />Image 67 of 91</div>
+<div ><img src="slideshow-images/IMG_9348.JPG" alt="Slideshow Image 68" />Image 68 of 91</div>
+<div ><img src="slideshow-images/IMG_9349.JPG" alt="Slideshow Image 69" />Image 69 of 91</div>
+<div ><img src="slideshow-images/IMG_9350.JPG" alt="Slideshow Image 70" />Image 70 of 91</div>
+<div ><img src="slideshow-images/IMG_9351.JPG" alt="Slideshow Image 71" />Image 71 of 91</div>
+<div ><img src="slideshow-images/IMG_9352.JPG" alt="Slideshow Image 72" />Image 72 of 91</div>
+<div ><img src="slideshow-images/IMG_9353.JPG" alt="Slideshow Image 73" />Image 73 of 91</div>
+<div ><img src="slideshow-images/IMG_9354.JPG" alt="Slideshow Image 74" />Image 74 of 91</div>
+<div ><img src="slideshow-images/IMG_9355.JPG" alt="Slideshow Image 75" />Image 75 of 91</div>
+<div ><img src="slideshow-images/IMG_9356.JPG" alt="Slideshow Image 76" />Image 76 of 91</div>
+<div ><img src="slideshow-images/IMG_9357.JPG" alt="Slideshow Image 77" />Image 77 of 91</div>
+<div ><img src="slideshow-images/IMG_9358.JPG" alt="Slideshow Image 78" />Image 78 of 91</div>
+<div ><img src="slideshow-images/IMG_9359.JPG" alt="Slideshow Image 79" />Image 79 of 91</div>
+<div ><img src="slideshow-images/IMG_9360.JPG" alt="Slideshow Image 80" />Image 80 of 91</div>
+<div ><img src="slideshow-images/IMG_9361.JPG" alt="Slideshow Image 81" />Image 81 of 91</div>
+<div ><img src="slideshow-images/IMG_9362.JPG" alt="Slideshow Image 82" />Image 82 of 91</div>
+<div ><img src="slideshow-images/IMG_9363.JPG" alt="Slideshow Image 83" />Image 83 of 91</div>
+<div ><img src="slideshow-images/RSCN7837.JPG" alt="Slideshow Image 84" />Image 84 of 91</div>
+<div ><img src="slideshow-images/RSCN7838.JPG" alt="Slideshow Image 85" />Image 85 of 91</div>
+<div ><img src="slideshow-images/RSCN7839.JPG" alt="Slideshow Image 86" />Image 86 of 91</div>
+<div ><img src="slideshow-images/RSCN7840.JPG" alt="Slideshow Image 87" />Image 87 of 91</div>
+<div ><img src="slideshow-images/RSCN7841.JPG" alt="Slideshow Image 88" />Image 88 of 91</div>
+<div ><img src="slideshow-images/RSCN7842.JPG" alt="Slideshow Image 89" />Image 89 of 91</div>
+<div ><img src="slideshow-images/RSCN7843.JPG" alt="Slideshow Image 90" />Image 90 of 91</div>
+<div ><img src="slideshow-images/RSCN7844.JPG" alt="Slideshow Image 91" />Image 91 of 91</div>
+
+    <hr/>
+
+</div>
+
+<p style="font-size:29px;text-align:center">The End!</p>
+</div>
+<div style="position:absolute; top:900px">
+<p style="font-size:9px;text-align:center">For any problems with the site, please contact <a href="mailto:morainehillsruninfo@gmail.com?Subject=RFTH%20Site%20Problems">the Webmaster</a></p>
+</div>
+</body>
+</html>

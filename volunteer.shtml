@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Run for the Hills 2017</title>
+
+<link href="styles.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	<!--#include virtual="includes/banner_nav.shtml" -->
+
+
+<div style="left:280px; top:50px; position: absolute; ">
+
+<div style="text-align:center; ">
+<h1>Volunteer Info</h1>
+<div style="text-align: center; "><h2>&nbsp;</h2>
+
+  <h3 style="font-weight: bold; color: #FF0000;">Please consider volunteering at the 2017 Moraine Hills Run for the Hills!</h3>
+<p>Help with registration. Help with check-in. Help at a water station. Help with set up. Help with cleanup. Help with post-race food. Help ahead of race day with all sorts of things. We can always use volunteers to help with this event. Get a huge thank you hug if you want one, and a race shirt, some treats, and a chance to win cool raffle prizes!</p>
+
+<p> Contact the <a href="mailto:dnr.volobog@illinois.gov?Subject=Volunteering%20at%20Run%20for%20the%20Hills">Volunteer Coordinator</a> for volunteering opportunities, and THANKS!</p>
+
+<p><br/>  
+</p>
+</div>
+
+</div>
+<hr/>
+<p style="font-size:9px;text-align:center">For any problems with the site, please contact <a href="mailto:friendsofmorainehills@gmail.com?Subject=RFTH%20Site%20Problems">the Webmaster</a></p>
+
+</div>
+
+</body>
+</html>

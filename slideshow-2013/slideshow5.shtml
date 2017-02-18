@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type"/>
+
+<title>RFTH Slideshow</title>
+<link href="../styles.css" rel="stylesheet" type="text/css" />
+<link href="slideshow.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="scripts/slideshow.js"></script>
+
+</head>
+
+<body>
+	<!--#include virtual="../includes/banner_nav.shtml" -->   
+	<!--#include virtual="slideshow_nav.shtml" -->
+
+<div style="left: 320px; top: 75px; position: absolute; width: 1000px;">
+
+<div style="text-align: left; ">
+<br/>
+<br/>
+</div>
+
+<!-- this will work with any number of images -->
+<!-- set the active class on whichever image you want to show up as the default 
+(otherwise this will be the last image) -->
+
+<!-- Note that you can add an <a> element to any of the images and allow the user to navigate away to whereever -->
+
+
+<div id="slideshow" >
+ 
+<div class="active"><img src="RFTH_Judy_2013_b_25/DSCN5113.JPG" alt="Slideshow Image 1" />Image 1 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5114.JPG" alt="Slideshow Image 2" />Image 2 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5115.JPG" alt="Slideshow Image 3" />Image 3 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5118.JPG" alt="Slideshow Image 4" />Image 4 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5121.JPG" alt="Slideshow Image 5" />Image 5 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5123.JPG" alt="Slideshow Image 6" />Image 6 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5124.JPG" alt="Slideshow Image 7" />Image 7 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5125b.jpg" alt="Slideshow Image 8" />Image 8 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5126.JPG" alt="Slideshow Image 9" />Image 9 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5127.JPG" alt="Slideshow Image 10" />Image 10 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5129.JPG" alt="Slideshow Image 11" />Image 11 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5130.JPG" alt="Slideshow Image 12" />Image 12 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5131.JPG" alt="Slideshow Image 13" />Image 13 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5132.JPG" alt="Slideshow Image 14" />Image 14 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5135.JPG" alt="Slideshow Image 15" />Image 15 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5137.JPG" alt="Slideshow Image 16" />Image 16 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5139.JPG" alt="Slideshow Image 17" />Image 17 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5140.JPG" alt="Slideshow Image 18" />Image 18 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5142.JPG" alt="Slideshow Image 19" />Image 19 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5144.JPG" alt="Slideshow Image 20" />Image 20 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5145.JPG" alt="Slideshow Image 21" />Image 21 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5146.JPG" alt="Slideshow Image 22" />Image 22 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5147.JPG" alt="Slideshow Image 23" />Image 23 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5148.JPG" alt="Slideshow Image 24" />Image 24 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5149.JPG" alt="Slideshow Image 25" />Image 25 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5151.JPG" alt="Slideshow Image 26" />Image 26 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5152.JPG" alt="Slideshow Image 27" />Image 27 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5153.JPG" alt="Slideshow Image 28" />Image 28 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5155.JPG" alt="Slideshow Image 29" />Image 29 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5156.JPG" alt="Slideshow Image 30" />Image 30 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5157.JPG" alt="Slideshow Image 31" />Image 31 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5158.JPG" alt="Slideshow Image 32" />Image 32 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5159.JPG" alt="Slideshow Image 33" />Image 33 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5160.JPG" alt="Slideshow Image 34" />Image 34 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5161.JPG" alt="Slideshow Image 35" />Image 35 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5162.JPG" alt="Slideshow Image 36" />Image 36 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5163.JPG" alt="Slideshow Image 37" />Image 37 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5164.JPG" alt="Slideshow Image 38" />Image 38 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5165.JPG" alt="Slideshow Image 39" />Image 39 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5168.JPG" alt="Slideshow Image 40" />Image 40 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5169.JPG" alt="Slideshow Image 41" />Image 41 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5170.JPG" alt="Slideshow Image 42" />Image 42 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5171.JPG" alt="Slideshow Image 43" />Image 43 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5172.JPG" alt="Slideshow Image 44" />Image 44 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5173.JPG" alt="Slideshow Image 45" />Image 45 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5174.JPG" alt="Slideshow Image 46" />Image 46 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5175.JPG" alt="Slideshow Image 47" />Image 47 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5176.JPG" alt="Slideshow Image 48" />Image 48 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5177.JPG" alt="Slideshow Image 49" />Image 49 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5179.JPG" alt="Slideshow Image 50" />Image 50 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5180.JPG" alt="Slideshow Image 51" />Image 51 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5181.JPG" alt="Slideshow Image 52" />Image 52 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5183.JPG" alt="Slideshow Image 53" />Image 53 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5184.JPG" alt="Slideshow Image 54" />Image 54 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5187.JPG" alt="Slideshow Image 55" />Image 55 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5187A.JPG" alt="Slideshow Image 56" />Image 56 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5189.JPG" alt="Slideshow Image 57" />Image 57 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5190.JPG" alt="Slideshow Image 58" />Image 58 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5191.JPG" alt="Slideshow Image 59" />Image 59 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5192.JPG" alt="Slideshow Image 60" />Image 60 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/DSCN5194.JPG" alt="Slideshow Image 61" />Image 61 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/RSCN5195.JPG" alt="Slideshow Image 62" />Image 62 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/RSCN5196.JPG" alt="Slideshow Image 63" />Image 63 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/RSCN5197.JPG" alt="Slideshow Image 64" />Image 64 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/RSCN5198.JPG" alt="Slideshow Image 65" />Image 65 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/RSCN5199.JPG" alt="Slideshow Image 66" />Image 66 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/RSCN5200.JPG" alt="Slideshow Image 67" />Image 67 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/RSCN5201.JPG" alt="Slideshow Image 68" />Image 68 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/RSCN5202.JPG" alt="Slideshow Image 69" />Image 69 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/RSCN5203.JPG" alt="Slideshow Image 70" />Image 70 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/RSCN5204.JPG" alt="Slideshow Image 71" />Image 71 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/RSCN5205.JPG" alt="Slideshow Image 72" />Image 72 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/RSCN5205A.JPG" alt="Slideshow Image 73" />Image 73 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/RSCN5206.JPG" alt="Slideshow Image 74" />Image 74 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/RSCN5206C.JPG" alt="Slideshow Image 75" />Image 75 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/RSCN5207.JPG" alt="Slideshow Image 76" />Image 76 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/RSCN5208.JPG" alt="Slideshow Image 77" />Image 77 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/RSCN5209.JPG" alt="Slideshow Image 78" />Image 78 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/RSCN5210.JPG" alt="Slideshow Image 79" />Image 79 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/RSCN5215.JPG" alt="Slideshow Image 80" />Image 80 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/RSCN5216.JPG" alt="Slideshow Image 81" />Image 81 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/RSCN5217.JPG" alt="Slideshow Image 82" />Image 82 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/RSCN5217A.JPG" alt="Slideshow Image 83" />Image 83 of 84</div>
+<div ><img src="RFTH_Judy_2013_b_25/RSCN5218.JPG" alt="Slideshow Image 84" />Image 84 of 84</div>
+
+
+
+    
+    <hr/>
+
+</div>
+<p style="font-size:29px;text-align:center">The End!</p>
+</div>
+<div style="position:absolute; top:789px">
+<p style="font-size:9px;text-align:center">For any problems with the site, please contact <a href="mailto:morainehillsruninfo@gmail.com?Subject=RFTH%20Site%20Problems">the Webmaster</a></p>
+</div>
+</body>
+</html>

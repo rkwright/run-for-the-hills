@@ -1,0 +1,5 @@
+<div style="left: 280px;position: absolute; width:100%; height:50px; top: 60px; overflow:hidden;">
+<ul id="nav_ss">
+	<li><!-- a href="slideshow.html">Slideshow</a --></li>
+    </ul>
+</div>
